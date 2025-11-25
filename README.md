@@ -1,4 +1,4 @@
-# PROYECTO PHOSPITAL - RESUMEN EJECUTIVO ACTUALIZADO
+# PROYECTO PHOSPITAL - RESUMEN 
 ## Sistema de Gestion Hospitalaria
 
 **Fecha de actualizacion:** 25 de Noviembre 2025  
