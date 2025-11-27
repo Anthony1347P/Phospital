@@ -1,4 +1,7 @@
 # PHOSPITAL - SISTEMA DE GESTION HOSPITALARIA
+## Link Video: https://youtu.be/iP0qH0nugm0
+## Link Power BI: https://ucaedusv-my.sharepoint.com/:u:/g/personal/00543924_uca_edu_sv/IQClmJolxS4_Qp0Wnctc5RgKATyuMO4wRrhGUtQGZjDq4Hg?e=tz4NY5 
+
 ## Documentacion Tecnica del Proyecto
 ### Base de Datos en SQL Server
 
