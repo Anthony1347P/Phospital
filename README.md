@@ -1,5 +1,27 @@
-# PROYECTO PHOSPITAL - DOCUMENTACION TECNICA FINAL
+# UNIVERSIDAD CENTROAMERICANA: JOSÉ SIMEÓN CAÑAS
+# DEPARTAMENTO DE ELECTRÓNICA E INFORMÁTICA
+---
+## PROYECTO PHOSPITAL - DOCUMENTACION TECNICA FINAL
 ## Sistema de Gestion Hospitalaria
+
+**Link Documentacion Doc: https://docs.google.com/document/d/14YfZZLlG_rMYkR4nkKevn3FC4-XiMc5CwsYJ9IJ2QhU/edit?usp=sharing**
+
+**Fink Video: https://youtu.be/iP0qH0nugm0**
+
+**Link Power BI: https://ucaedusv-my.sharepoint.com/:u:/g/personal/00543924_uca_edu_sv/IQClmJolxS4_Qp0Wnctc5RgKATyuMO4wRrhGUtQGZjDq4Hg?e=tz4NY5**
+
+## Integrantes:
+-  Jaime Antonio Perez Shupan 00202124 
+
+-  Diego Pérez Herrera 00543924
+
+-  Christian Adonay Penado Diaz 00046724
+
+-  Samuel Alejando Perez Hernandez 00052424
+
+-  Juan Carlos Rivera Meléndez 00029324
+    
+-  David Alessandro Ventura Montoya 00089724
 
 **Fecha de Finalizacion:** 25 de Noviembre 2025  
 **Version:** 7.0 Final  
