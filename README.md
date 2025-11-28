@@ -6,7 +6,7 @@
 
 **Link Documentacion Doc: https://docs.google.com/document/d/14YfZZLlG_rMYkR4nkKevn3FC4-XiMc5CwsYJ9IJ2QhU/edit?usp=sharing**
 
-**Fink Video: https://youtu.be/iP0qH0nugm0**
+**Link Video: https://youtu.be/iP0qH0nugm0**
 
 **Link Power BI: https://ucaedusv-my.sharepoint.com/:u:/g/personal/00543924_uca_edu_sv/IQClmJolxS4_Qp0Wnctc5RgKATyuMO4wRrhGUtQGZjDq4Hg?e=tz4NY5**
 
@@ -17,7 +17,7 @@
 
 -  Christian Adonay Penado Diaz 00046724
 
--  Samuel Alejando Perez Hernandez 00052424
+-  Samuel Alejandro Perez Hernandez 00052424
 
 -  Juan Carlos Rivera Meléndez 00029324
     
